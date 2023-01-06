@@ -1,0 +1,28 @@
+* Content Analysis of Twitter Corpus
+
+This work is done by four Techniche Universität Graz Erasmus+ students
+during the Winter Semester 2022. The work is based on the materials
+and lectures of the Advanced Information retrieval course in TU Graz.
+
+** Dataset
+
+In the project we used dataset from [[www.huggingface.co][Hugging Face]]. Whole the dataset
+could be downloaded [[http://thinknook.com/wp-content/uploads/2012/09/Sentiment-Analysis-Dataset.zip][here]].
+
+** Code
+
+All of the python code is provided via .ipynb notebooks, which can be
+used with some collaborative web-tool like Google Colab or Kaggle or
+locally e.g with Jyputer.
+
+** Structure
+
+Structure of the whole project is following:
+*** Bias Analysis
+*** Toxicity Analysis
+*** Emotion Analysis
+*** Plots
+*** Overpresented Words
+*** Similarity Measures
+*** Text clustering
+
